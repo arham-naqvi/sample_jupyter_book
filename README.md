@@ -2,9 +2,9 @@
 
 **A Jupyter Book template for data science projects with GitHub Pages deployment and automated portfolio integration/updating using GitHub Actions.**
 
-*Author: Arham Naqvi*
+*Author: Raza Naqvi*
 
-*Last Updated: December 16th, 2025*
+*Last Updated: June 4th, 2026*
 
 ---
 
