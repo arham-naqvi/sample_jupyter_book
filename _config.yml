@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 title: "Jupyter Book Template for Data Science Projects"
 description: "A Jupyter Book template for data science projects with GitHub Pages deployment and automated portfolio integration/updating using GitHub Actions."
-author: "Arham Naqvi"
+author: "Raza Naqvi"
 logo: "logo.png"
 copyright: "2025"
 
@@ -34,7 +34,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Syed-A-Naqvi/sample_jupyter_book # repo url
+  url: https://github.com/raza-naq/sample_jupyter_book # repo url
   branch: main  # Which branch of the repository should be used when creating links (optional)
   # path_to_book: docs  # Optional path to your book, relative to the repository root
 
